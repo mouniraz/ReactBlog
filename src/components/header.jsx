@@ -1,11 +1,11 @@
 import React from 'react';
 import "../css/style.css";
 
-export default function Header()
+export default function Header(props)
 {
 return(
     <div className="header">
-    <h2>Nouvelles technologies de développement web et mobile</h2>
+    <h3>{props.title}</h3>
 </div>
 )
 

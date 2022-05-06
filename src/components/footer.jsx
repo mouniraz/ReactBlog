@@ -11,7 +11,10 @@ export default function Footer()
         alt="3 w academy" className='imgFooter'
       />
       <p className='textFooter'>
-        @3w Academy Tunisie             
+        
+          @3w Academy Tunisie
+        
+       
       </p>
     </footer>
     </div>
